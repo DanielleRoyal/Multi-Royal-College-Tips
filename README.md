@@ -1,7 +1,1 @@
-#Node.js, Express & MySQL Tutorial.
-
-
-In this video, we will use the Express framework with HTML, CSS, and JavaScript to build a simple CRUD (Create, Read, Update, Delete) App.
-I will show you how to make queries using MySQL and how to connect that to our express app to build a fullstack application.
-
-https://youtu.be/vrj9AohVhPA
+This database is design to service all of your college needs. If you need help deciding the best college to go to for your area of interest. This database will allow you to compare prices, competativeness, and even view colleges in and out of the state best suited for you.
