@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css">
+    <title>Royal College Tips</title>
+</head>
+<body>
+    <main>
+        <h1>Royal College Tips</h1>
+        <input placeholder="search by degree level" id="search-input">
+           <button id="search-btn">Search</button>
+
+        <br><br><br>
+        <div>
+           <input placeholder="search by state" id="search-input">
+           <button id="search-btn">Search</button>
+        </div>
+
+        <table id="table">
+            <thead>
+                <th>State</th>
+                <th>College</th>
+                <th>Degree Level</th>
+                <th>Cost</th>
+                <th>Benefits</th>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <section hidden id="update-row">
+            <label>Name:</label>
+            <input type="text" id="update-name-input">
+            <button id="update-row-btn">Update</button>
+        </section>
+    </main>
+    <script src="index.js"></script>
+</body>
+</html>
